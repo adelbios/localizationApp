@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "عادل محمد سليم رضوان"; ObjectID = "2sa-MH-muN"; */
+"2sa-MH-muN.text" = "عادل محمد سليم رضوان";
+
+/* Class = "UIButton"; normalTitle = "change LAnguage"; ObjectID = "FdI-Xf-b37"; */
+"FdI-Xf-b37.normalTitle" = "تغير اللغة";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "lxJ-7A-Q8o"; */
+"lxJ-7A-Q8o.normalTitle" = "التالي";
+
+/* Class = "UIButton"; normalTitle = "Change Name"; ObjectID = "q8w-pi-h5U"; */
+"q8w-pi-h5U.normalTitle" = "تغير الإسم";
